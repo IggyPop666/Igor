@@ -1,2 +1,1 @@
-# Igor
-Localization of programs
+
